@@ -1,0 +1,29 @@
+.test {
+  width: 150px;
+  height: 100px;
+
+  display: inline-block;
+}
+font-family: roboto;
+
+ul li {
+  color: pink;
+  background-color: purple;
+}
+body {
+  background-color: rgb(248, 221, 226);
+  padding: 100px;
+  margin: 10px;
+}
+span {
+  color: red;
+  background-color: powderblue;
+}
+.top {
+  background-color: yellow;
+  color: blue;
+}
+.box {
+  background-image: url(background.jpg);
+  padding: 100px;
+}
